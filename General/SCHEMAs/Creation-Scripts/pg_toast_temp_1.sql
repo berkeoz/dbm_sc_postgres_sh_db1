@@ -1,0 +1,1 @@
+CREATE SCHEMA pg_toast_temp_1
